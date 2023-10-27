@@ -1,2 +1,6 @@
 /venv/
 /.*/
+/_data_preprocess.ipynb
+/dataset_rw.csv
+/test.csv
+/train.csv
